@@ -13,5 +13,5 @@ is test me to how to use git in real life and real projects
 bikeshare_2.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+i think that the only credit is for udacity for teaching me and make me proud of what programer i'm today.
 
