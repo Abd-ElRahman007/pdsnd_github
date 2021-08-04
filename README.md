@@ -7,7 +7,7 @@
 the Final project git
 
 ### Description
-Describe what your project is about and what it does
+is test me to how to use git in real life and real projects
 
 ### Files used
 Include the files used
